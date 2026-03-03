@@ -1,0 +1,15 @@
+﻿src/app/api/admin/settings/route.ts(10,17): error TS2339: Property 'role' does not exist on type 'never'.
+src/app/api/admin/stats/route.ts(12,21): error TS2339: Property 'role' does not exist on type 'never'.
+src/app/api/admin/users/route.ts(15,43): error TS2339: Property 'role' does not exist on type 'never'.
+src/app/api/admin/users/route.ts(63,43): error TS2339: Property 'role' does not exist on type 'never'.
+src/app/api/notifications/route.ts(37,31): error TS2339: Property 'model' does not exist on type 'never'.
+src/app/api/notifications/route.ts(37,76): error TS2339: Property 'model' does not exist on type 'never'.
+src/app/api/notifications/route.ts(38,37): error TS2339: Property 'prompt' does not exist on type 'never'.
+src/app/api/notifications/route.ts(39,23): error TS2339: Property 'prompt' does not exist on type 'never'.
+src/app/api/notifications/route.ts(40,23): error TS2339: Property 'prompt' does not exist on type 'never'.
+src/app/api/notifications/route.ts(42,32): error TS2339: Property 'id' does not exist on type 'never'.
+src/app/api/notifications/route.ts(45,62): error TS2339: Property 'resolution' does not exist on type 'never'.
+src/app/api/notifications/route.ts(46,27): error TS2339: Property 'created_at' does not exist on type 'never'.
+src/app/api/notifications/route.ts(47,31): error TS2339: Property 'image_url' does not exist on type 'never'.
+src/app/api/notifications/route.ts(53,34): error TS2339: Property 'credits' does not exist on type 'never'.
+src/app/api/notifications/route.ts(79,28): error TS2339: Property 'plan' does not exist on type 'never'.

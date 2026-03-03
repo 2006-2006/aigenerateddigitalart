@@ -1,0 +1,7 @@
+
+C:\Users\PC\Desktop\gen ai\src\app\dashboard\page.tsx
+   49:29  warning  Image elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+  108:93  warning  Image elements must have an alt prop, either with meaningful text, or an empty string for decorative images  jsx-a11y/alt-text
+
+✖ 2 problems (0 errors, 2 warnings)
+
